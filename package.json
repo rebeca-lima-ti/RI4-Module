@@ -1,0 +1,19 @@
+{
+  "name": "ri4-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeca-lima-ti/RI4-Module.git"
+  },
+  "author": "rebeca-lima-ti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeca-lima-ti/RI4-Module/issues"
+  }
+}
